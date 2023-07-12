@@ -1,2 +1,2 @@
 # Remote-sensing-NPU
-Remoste sensing NPU Team
+Remote sensing NPU Team
